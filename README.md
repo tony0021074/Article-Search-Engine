@@ -2,6 +2,6 @@
 Search article in an given bibliography XML file.\
 It is an application that searches info of article stored in the XML file. It searches with binary searching algorithm through XPath & XQuery.
 
-XML data: dblp.zip
+XML file: dblp.zip
 
 Prerequisite: baseX database engine
